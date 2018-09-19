@@ -1,5 +1,5 @@
 /*
- * Joe_Hollon
+ * 
  * CIS 2212 - Tuseday_class
  * Convert_Fahrenhuit_Celsius
  * Due September-11-18
